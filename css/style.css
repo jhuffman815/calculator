@@ -131,11 +131,9 @@ button::-moz-focus-inner {
 	border-bottom-style: solid !important;
 }
 
-#btn_0{
-	width: 50%;
-}
 
 #btn_equals{
+  width: 50%;	
   background: -moz-linear-gradient(232deg, rgba(0,128,128,1) 0%, rgba(115,115,115,1) 25%, rgba(255,179,179,1) 50%, rgba(97,97,97,1) 75%, rgba(0,87,87,1) 100%); /* ff3.6+ */
   background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(0,87,87,1)), color-stop(25%, rgba(97,97,97,1)), color-stop(50%, rgba(255,179,179,1)), color-stop(75%, rgba(115,115,115,1)), color-stop(100%, rgba(0,128,128,1))); /* safari4+,chrome */
   background: -webkit-linear-gradient(232deg, rgba(0,128,128,1) 0%, rgba(115,115,115,1) 25%, rgba(255,179,179,1) 50%, rgba(97,97,97,1) 75%, rgba(0,87,87,1) 100%); /* safari5.1+,chrome10+ */
