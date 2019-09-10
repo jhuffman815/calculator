@@ -27,7 +27,7 @@ body{
 	border-width: thin;
 	border-color: #ccc;
 	border-radius: 25px;
-	box-shadow: 5px 5px 5px 0px rgba(204, 204, 204, 0.75);
+	box-shadow: 15px 5px 15px 0px rgba(104, 101, 101, 0.75);
 }
 
 #calculator-content{
@@ -65,7 +65,7 @@ body{
 }
 
 #operation{
-	font-size: 24px;
+	font-size: 16px;
 	margin-top: 0;
 	margin-bottom: 0;
 	padding-bottom: 2px;
