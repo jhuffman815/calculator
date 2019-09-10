@@ -22,10 +22,11 @@ body{
 	width: 340px;
 	padding: 5px;
 	padding-bottom: 10px;
-	background-color: white;
+	background-color: rgb(224, 207, 207);
 	border-style: solid;
 	border-width: thin;
 	border-color: #ccc;
+	border-radius: 25px;
 	box-shadow: 5px 5px 5px 0px rgba(204, 204, 204, 0.75);
 }
 
@@ -60,11 +61,11 @@ body{
 }
 
 .x-small-font{
-	font-size: 25px !important;
+	font-size: 35px !important;
 }
 
 #operation{
-	font-size: 16px;
+	font-size: 24px;
 	margin-top: 0;
 	margin-bottom: 0;
 	padding-bottom: 2px;
@@ -102,7 +103,7 @@ button{
 	height: 70px;
   	font-size: 24px;
   	font-weight: lighter;
-  	background-color: white;
+  	background-color: rgb(141, 129, 129);
   	border-style: solid;
   	border-right: 0;
   	border-bottom: 0;
